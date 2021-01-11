@@ -1,6 +1,5 @@
-# Your Flick Game Title Goes Here
+# Door Game
 
 ## Description
 
-Description of the game goes here.
-
+Choose the correct doors to win
